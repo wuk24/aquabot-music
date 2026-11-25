@@ -1,8 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
 node_modules
 .vscode
 .env
 package-lock.json
 spotify-config.json
-build
-dist
 .DS_Store
